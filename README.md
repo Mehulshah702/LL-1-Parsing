@@ -19,3 +19,5 @@ Usage:
 4. Input strings will be parsed according to the LL(1) grammar rules, and the program will output whether each input string is accepted or rejected.
 
 This program serves as a simple demonstration of how LL(1) predictive parsing works and can be used as a reference for understanding parsing techniques in compiler construction. It can be extended or modified to support different grammars and parsing requirements.
+
+For more contact : shahmehul702@gmail.com
